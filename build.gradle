@@ -1,0 +1,5 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+archivesBaseName = 'spongeplugin'
+version = '1.0.0-SNAPSHOT'
